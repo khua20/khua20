@@ -68,7 +68,7 @@
 
 ### 🤝 How to Reach Me:
 - **Email**: huakev202@gmail.com
-- **LinkedIn**: [linkedin.com/in/kevin-hua-/](https://www.linkedin.com/in/kevin-hua-/)
+- **LinkedIn**: [https://www.linkedin.com/in/kevin-hua-/](https://www.linkedin.com/in/kevin-hua-/)
 
 ---
 
