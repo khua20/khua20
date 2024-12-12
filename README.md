@@ -60,12 +60,6 @@
 
 ---
 
-### 🚀 Current Projects:
-- **[Sardine](https://github.com/khua20/sardine.)**: Digitizing textbooks and automating learning tasks.
-- **[MindfulDrive](https://github.com/khua20/Mindful-Drive)**: A real-time alcohol detection device preventing drunk driving.
-
----
-
 ### 🤝 How to Reach Me:
 - **Email**: huakev202@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/kevin-hua-/](https://www.linkedin.com/in/kevin-hua-/)
